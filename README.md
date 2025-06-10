@@ -2,8 +2,8 @@
 - I am an intermiate programmer/game designer and currently a senior in high school (as of 2025).
 ## What am I working towards?
 - I am very interested in Artificial Intelligence and game design
-- I am mainly focused on lerning more about A.I. and how to program them, both as chatbots and tools.
-## I look forward to working with all of the various people here on Github
+- I am mainly focused on learning more about A.I. and how to program them, both as chatbots and as tools.
+## I look forward to working with all of the wonderful people on Github
 <!--
 **CUFIC/CUFIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
